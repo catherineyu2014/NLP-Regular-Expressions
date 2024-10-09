@@ -7,7 +7,7 @@ Program was developed using all-OANC.txt as a training corpus.
 Program requires a text file in the command line, and will output a file (dollar_output.txt for dollar_program.py; telephone_output.txt for telephone_regex.py) that contains the respective matches.
 
 To run:
-  python dollar_program.py test_dollar_phone_corpus.txt
+    python dollar_program.py test_dollar_phone_corpus.txt
   python telephone_regex.py test_dollar_phone_corpus.txt
 
 Program results:
